@@ -6,7 +6,7 @@ This is a test app for showcasing and applying some of the interaction design pr
 
 This repo is intended to be used as a mobile demo display of **interactions** on an iPhone, all other research tests were conducted on Android phones with Figma.
 
-This repo is the **full experience that has not been truncated**, to play with a demo of **just the bill roll and send/recieve interfaces**, go here.
+This repo is the **full experience that has not been truncated**, to play with a demo of **just the bill roll and send/recieve interfaces**, [go here](https://github.com/jacobwaites/lowlittoolkit-pesasalama-billroll).
 
 
 Instructions for Use
