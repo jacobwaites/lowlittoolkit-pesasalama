@@ -70,6 +70,11 @@ DA KEY: Start at the green dot, end at the red dot.
 +---------------------------------+
 ```
 
+If the App breaks at any time
+=================
+
+There's a hidden refresh button in the top left 30px of the screen.
+
 
 Credits & such
 ------------
